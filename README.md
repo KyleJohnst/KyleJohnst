@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KyleJohnst aka Kyle
-- 👀 I’m interested in Scuba, tech, Cars, Motorcycles, Travel
+- 👀 I’m interested in Scuba, Motorcycles, tech, Cars, and Travel
 - 🌱 I’m currently working with Nextjs, AWS, Node
 - 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/kylew-johnston/)
 
